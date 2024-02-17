@@ -1,2 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Flow.Publisher"/>
+    <fullyQualifiedTypeName name="com.masai1.MyPrinter"/>
+    <fullyQualifiedTypeName name="com.masai1.Parce"/>
+    <fullyQualifiedTypeName name="com.masai1.Demo"/>
+    <fullyQualifiedTypeName name="com.masai.practice.Find"/>
+    <fullyQualifiedTypeName name="com.masai.practice.StrToInt"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.masai.practice.ArrayEquals"/>
+    <fullyQualifiedTypeName name="com.masai.practice.UpCase"/>
+    <fullyQualifiedTypeName name="com.masai.practice.StaticRefDemo"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="com.masai.practice.CreateEmployeeObject"/>
+    <fullyQualifiedTypeName name="com.masai.practice.ShowDetails"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="com.masai.practice.FindMin"/>
+    <fullyQualifiedTypeName name="com.masai.practice.EmployeeOperations"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="com.masai.practice.Employee"/>
+    <fullyQualifiedTypeName name="com.masai.practice.Student"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>
